@@ -1,0 +1,36 @@
+
+header.header{
+    position: absolute;
+    background-color: black;,
+    font-family: 
+    color: white;
+    text-shadow: blue;
+    text-align: lighter;
+}
+
+.cabecalho {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+    color: white;
+    background-color: black;
+}
+body{
+    ;
+}
+.menu{
+    float: right;
+    line-height: 60px;
+    margin: 0;
+    text-shadow: 5px;
+}
+
+.menu ul li{
+    display: inline-block;
+}
+
+.menu ul li a{
+    text-decoration-color: black;
+    color: white;
+    font-weight: lighter;
+    padding: 0 20px;
+}
